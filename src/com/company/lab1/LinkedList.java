@@ -26,7 +26,6 @@ public class LinkedList<E> implements ListOfMethods<E> {
         tempNode.previous.next = tempNode;
         reference.previous = tempNode;
         size++;
-
     }
 
     @Override
@@ -99,5 +98,14 @@ public class LinkedList<E> implements ListOfMethods<E> {
         for(int i=0; i<index; i++){
             reference = reference.next;
         }
+    }
+    public void prettyPrint(){
+        System.out.print("LinkedList: -> ");
+        Node<E> temp = head;
+        while(temp.value != null){
+            System.out.print("Node(" + temp.value + ") ->");
+            temp = temp.next;
+        }
+
     }
 }

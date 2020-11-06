@@ -26,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,7 +34,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab1.Main" />
+      <module name="Datastruktur labbar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Datastruktur labbar" />
@@ -55,6 +69,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -64,7 +87,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604479466205</updated>
-      <workItem from="1604479468189" duration="2390000" />
+      <workItem from="1604479468189" duration="3951000" />
+      <workItem from="1604648118764" duration="35000" />
+      <workItem from="1604653451096" duration="9354000" />
     </task>
     <servers />
   </component>
@@ -76,6 +101,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="576" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604480025222" />
+    <state x="550" y="7" key="FileChooserDialogImpl" timestamp="1604648150494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="7" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604648150494" />
+    <state width="1478" height="106" key="GridCell.Tab.0.bottom" timestamp="1604667090948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="106" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604667090948" />
+    <state width="1478" height="106" key="GridCell.Tab.0.center" timestamp="1604667090947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="106" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604667090947" />
+    <state width="1478" height="106" key="GridCell.Tab.0.left" timestamp="1604667090947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="106" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604667090947" />
+    <state width="1478" height="106" key="GridCell.Tab.0.right" timestamp="1604667090948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="106" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604667090948" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604659140392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604659140392" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604659140392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604659140392" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604659140392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604659140392" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604659140392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604659140392" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1604664162875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1604664162875" />
+    <state x="545" y="171" key="refactoring.ChangeSignatureDialog" timestamp="1604663929824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="545" y="171" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1604663929824" />
     <state x="433" y="96" width="672" height="678" key="search.everywhere.popup" timestamp="1604481226473">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

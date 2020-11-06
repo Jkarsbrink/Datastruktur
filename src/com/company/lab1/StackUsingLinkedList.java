@@ -12,10 +12,11 @@ public class StackUsingLinkedList {
     StackUsingLinkedList(){
         this.top=null;
     }
+
     public void push(int e){
         Node temporary = new Node();
         if(temporary==null){
-            System.out.println("\nStack Overfull");
+            System.out.println("\nNode empty");
             return;
         }
         temporary.data = e;
@@ -23,11 +24,7 @@ public class StackUsingLinkedList {
         top = temporary;
     }
     public boolean isEmpty() {
-        if (top == null) {
-            return true;
-        } else {
-            return false;
-        }
+        return top == null;
     }
     public int peek(){
         if(isEmpty() == false){
@@ -39,7 +36,7 @@ public class StackUsingLinkedList {
     }
     public void pop(){
         if(top==null){
-            System.out.println("\nStack underflow");
+            System.out.println("\nStack is empty");
             return;
         }
         top = top.link;
@@ -51,7 +48,7 @@ public class StackUsingLinkedList {
         }else{
             Node temporary = top;
             while (temporary != null){
-                System.out.println("->" + temporary.data);
+                System.out.print("->" + temporary.data);
                 temporary = temporary.link;
             }
         }
