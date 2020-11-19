@@ -35,7 +35,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.SudokuBacktracking">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.lab1.Main" />
       <module name="Datastruktur labbar" />
@@ -59,6 +59,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab3.Sudoku" />
+      <module name="Datastruktur labbar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SudokuBacktracking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lab3.SudokuBacktracking" />
+      <module name="Datastruktur labbar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -75,9 +101,13 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Sudoku" />
+      <item itemvalue="Application.SudokuBacktracking" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SudokuBacktracking" />
+        <item itemvalue="Application.Sudoku" />
         <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
@@ -93,7 +123,7 @@
       <workItem from="1604479468189" duration="3951000" />
       <workItem from="1604648118764" duration="35000" />
       <workItem from="1604653451096" duration="9354000" />
-      <workItem from="1605780775462" duration="489000" />
+      <workItem from="1605780775462" duration="6156000" />
     </task>
     <servers />
   </component>
